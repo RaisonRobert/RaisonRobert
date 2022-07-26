@@ -1,5 +1,6 @@
+<div align="center justify-context:center">
 ### Bem Vindo 👋
-<div align="center">
+
 
 ### Estatística
 
