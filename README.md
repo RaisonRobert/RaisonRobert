@@ -1,4 +1,4 @@
-<div align="center justify-context:center">
+<div text-align, justify-content: center;>
 ### Bem Vindo 👋
 
 
