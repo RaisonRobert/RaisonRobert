@@ -1,6 +1,6 @@
 <div align="center">
-### Hi there 👋
-### Estatística
+### Bem Vindo 👋\n
+### Estatística\n
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaisonRobert" alt="Raison" />
 
