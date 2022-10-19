@@ -7,7 +7,9 @@
 - 📫 I am available to answer your questions related to mobile programming. just connect me :)
 
 ## Connect me
-
+<a href="https://linktr.ee/raisonrobert">
+  <img src="https://images.squarespace-cdn.com/content/v1/599ed3067131a56df5e1a813/1504720946407-MRAQRXX4IV1CD7W42HXR/portfolio.png?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/raison-robert/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
