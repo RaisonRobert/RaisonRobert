@@ -2,7 +2,7 @@
 ### Welcome 👋
 ## About me
 
-- 💻 Currently working on IOS and Kotlin mobile projects.
+- 💻 Currently working on IOS and Android Kotlin mobile projects.
 - ✌🏻 I'm here to collaborate with other developers and show my projects.
 - 📫 I am available to answer your questions related to mobile programming. just connect me :)
 
