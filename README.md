@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Senior Mobile Developer
+# 🚀 Especialist Mobile Developer
 
 ### Android • Kotlin • Java • iOS • Clean Architecture • Firebase
 
@@ -18,7 +18,7 @@ Building secure, scalable and high-performance mobile applications.
 
 # 👨‍💻 About Me
 
-I'm a **Senior Mobile Developer** passionate about creating secure, scalable and user-friendly mobile applications.
+I'm a **Especialist Mobile Developer** passionate about creating secure, scalable and user-friendly mobile applications.
 
 Currently I'm working at **SiDi** developing new features for **Samsung Wallet**, participating in the complete software lifecycle—from architecture and implementation to testing, maintenance and delivery.
 
@@ -117,7 +117,7 @@ My repositories include projects involving:
 
 ## 📱 SiDi
 
-**Senior Android Developer**
+**Especialist Android Developer**
 
 Working on **Samsung Wallet**, developing secure payment features, authentication flows, wearable integration, architecture improvements, bug fixing and performance optimization.
 
