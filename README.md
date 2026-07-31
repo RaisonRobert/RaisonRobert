@@ -1,163 +1,220 @@
 # Hi there 👋 I'm Raison Robert
 
-<p align="center">
-  <b>Senior Mobile Developer | Android & iOS | Kotlin | Swift</b><br>
-  Passionate about building scalable, secure and high-performance mobile applications.
+<div align="center">
+
+# 🚀 Senior Mobile Developer
+
+### Android • Kotlin • Java • iOS • Clean Architecture • Firebase
+
+Building secure, scalable and high-performance mobile applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raison%20Robert-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/raison-robert)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Linktree-43E660?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://linktr.ee/raisonrobert)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:raysonnrobert@gmail.com)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Senior Mobile Developer** passionate about creating secure, scalable and user-friendly mobile applications.
+
+Currently I'm working at **SiDi** developing new features for **Samsung Wallet**, participating in the complete software lifecycle—from architecture and implementation to testing, maintenance and delivery.
+
+Throughout my career I've contributed to enterprise applications for companies such as:
+
+* 💳 Samsung Wallet
+* 📡 Claro Brasil
+* 🏦 Banco Banese
+* 🏥 SAMEL Assistência Médica
+
+I enjoy solving complex problems using clean architecture, modern Android technologies and software engineering best practices.
+
+---
+
+# 🚀 What You'll Find Here
+
+My repositories include projects involving:
+
+* 📱 Native Android Applications
+* 🍏 iOS Applications
+* 🏗 Clean Architecture
+* 🧩 MVVM
+* 🔥 Firebase
+* 🌐 REST APIs
+* ⚡ GraphQL
+* 📦 Jetpack Compose
+* 🧪 Unit Testing
+* 🎨 Material Design
+* 🔐 Authentication
+* 💳 Digital Payments
+* 📲 Wear OS Integration
+* 📚 Android Samples
+* 🛠 Open Source Projects
+
+---
+
+# 💻 Tech Stack
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,firebase"/>
+
+</p>
+
+### Backend & APIs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ktor,nodejs,mysql,sqlite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gradle,figma,postman"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🏗 Software Engineering
 
-I'm a Mobile Software Engineer with experience developing enterprise applications for large companies such as **Samsung Wallet**, **Claro**, **Banco Banese** and **SAMEL Assistência Médica**.
-
-I have solid experience in the complete mobile development lifecycle, from requirements gathering and architecture to implementation, testing, publishing and maintenance.
-
-My main focus is building clean, scalable and maintainable applications following software engineering best practices.
-
----
-
-## 💼 Current Work
-
-📱 Mobile Developer at **SiDi**
-
-Working on **Samsung Wallet**, developing secure payment solutions and digital wallet features using modern Android technologies.
-
----
-
-## 📂 Featured Projects
-
-Here you'll find projects involving:
-
-- 📱 Native Android Development
-- 🍏 iOS Development
-- 💳 Digital Wallet & Payments
-- 🔐 Authentication & Security
-- ☁️ Firebase Services
-- 🌐 REST APIs & GraphQL
-- 🧪 Unit Tests & UI Tests
-- 🏗 Clean Architecture
-- 🎨 Jetpack Compose
-- 📊 Mobile Architecture Samples
-- 📦 Open Source Libraries
-
-Every repository demonstrates different software engineering concepts and mobile development best practices.
+* Clean Architecture
+* MVVM
+* MVP
+* MVC
+* SOLID
+* Clean Code
+* Design Patterns
+* Dependency Injection
+* Coroutines
+* Kotlin Flow
+* LiveData
+* Retrofit
+* Room
+* SQLite
+* Firebase
+* GraphQL
+* REST APIs
+* Navigation Component
+* Hilt
+* Dagger
+* CameraX
+* WorkManager
+* Unit Testing
+* UI Testing
+* Google Play Console
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
 
-### Mobile
+## 📱 SiDi
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+**Senior Android Developer**
 
-### Architecture
-
-- MVVM
-- MVP
-- MVC
-- Clean Architecture
-- SOLID
-- Clean Code
-- Design Patterns
-
-### Libraries
-
-- Retrofit
-- Room
-- SQLite
-- Firebase
-- GraphQL
-- Coroutines
-- Flow
-- LiveData
-- Hilt
-- Dagger
-- Navigation
-- CameraX
-- WorkManager
-
-### Tools
-
-- Android Studio
-- Xcode
-- Git
-- GitHub
-- Gerrit
-- Jira
-- Confluence
-- Figma
-- Postman
-- Google Play Console
+Working on **Samsung Wallet**, developing secure payment features, authentication flows, wearable integration, architecture improvements, bug fixing and performance optimization.
 
 ---
 
-## 🤝 Let's Connect
+## 📡 Claro Brasil
+
+Android Developer responsible for the **Minha Claro Residencial** application and **Claro Clube**, implementing new features, GraphQL integration and improving user experience.
+
+---
+
+## 🏦 Banco Banese
+
+Development of banking solutions focused on security, performance and scalable architecture.
+
+---
+
+## 🏥 SAMEL Assistência Médica
+
+Native Android application focused on healthcare services using modern Android architecture.
+
+---
+
+# 🌟 Featured Repositories
+
+Here are some technologies demonstrated throughout my repositories:
+
+* Android Kotlin
+* Jetpack Compose
+* Firebase Authentication
+* Firebase Firestore
+* Room Database
+* MVVM
+* Retrofit
+* GraphQL
+* Clean Architecture
+* Android Testing
+* Coroutines
+* Kotlin Flow
+* CameraX
+* QR Code
+* Dependency Injection
+* Material Design
+
+---
+
+# 📊 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RaisonRobert&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,html,css,javascript"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
 
 I'm always open to discussing:
 
-- Android Development
-- iOS Development
-- Kotlin
-- Mobile Architecture
-- Open Source
-- Clean Architecture
-- Career Opportunities
+* Android Development
+* Kotlin
+* Software Architecture
+* Mobile Security
+* Firebase
+* Open Source
+* Career Opportunities
+* Technical Mentoring
 
-📧 **Email:** raysonnrobert@gmail.com
+📧 **Email**
+
+**[raysonnrobert@gmail.com](mailto:raysonnrobert@gmail.com)**
 
 💼 **LinkedIn**
+
 https://www.linkedin.com/in/raison-robert
 
-🌐 **Portfolio**
+🌎 **Portfolio**
+
 https://linktr.ee/raisonrobert
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
+### ⭐ If you like my projects, don't forget to leave a Star!
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raisonrobert&show_icons=true&theme=tokyonight"/>
+*"Technology is best when it brings people together and solves real problems."*
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisonrobert&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=raisonrobert&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raisonrobert&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=raisonrobert&style=for-the-badge"/>
-
-</p>
-
----
-
-> *"Great software is not only about writing code. It's about solving real problems with scalable, maintainable and user-focused solutions."*
+</div>
